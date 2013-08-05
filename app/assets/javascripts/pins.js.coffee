@@ -4,5 +4,5 @@
 script/
 
 jQuery ->
-    $('#pins').imagesLoaded ->
-        $('#pins').masonry itemSelector: ".box"
+  $('#pins').imagesLoaded ->
+    $('#pins').masonry itemSelector: ".box"
