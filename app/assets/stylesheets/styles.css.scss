@@ -21,8 +21,9 @@ body {
 }
 
 .footer {
-	margin-top: 500px;
+	margin-top: 15px;
 	color: $grayLight;
+    clear:both;
 	a {
 		color: $gray;
 	}
@@ -55,3 +56,9 @@ body {
     margin: 10px 0 5px;
 }
 
+
+.paginate {
+    clear:both;
+    padding-top: 15px;
+
+}
